@@ -26,41 +26,22 @@
 * QA/team/project management;
 * Good communication skills; collaboration and interpersonal skills;
 * Understanding of blockchain & cryptocurrency technologies.
-               |    Experience, years    | Level  
------------|:-------: 
-Анна       |   29 
-Дмитрий    |   47 
-Федор      |   32
-	
- 
-
-
-
-
-Operating Systems
- 
- 
- 
-MS Windows
-15
-Expert
- 
-MacOS
-Linux
-iOS
-ipadOS
-10
-3
-6
-4
-Advanced
-Advanced
-Advanced
-Advanced
- 
-Android
-2
-Intern
+* Operating systems:
+    + MS Windows
+     - 15 years
+     - Expert level
+    + MacOS
+     - 10 years
+     - Advanced
+    + Linux
+     - 3 years
+     - Advanced
+    + iOS
+     - 6 years
+     - Advanced
+    + Android
+     - 2
+     - Intern
  
 Programming Languages
  
