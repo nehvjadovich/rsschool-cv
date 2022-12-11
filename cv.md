@@ -27,21 +27,11 @@
 * Good communication skills; collaboration and interpersonal skills;
 * Understanding of blockchain & cryptocurrency technologies.
 * Operating systems:
-    + MS Windows
-     - 15 years
-     - Expert level
-    + MacOS
-     - 10 years
-     - Advanced
-    + Linux
-     - 3 years
-     - Advanced
-    + iOS
-     - 6 years
-     - Advanced
-    + Android
-     - 2
-     - Intern
+    + MS Windows: 15 years; Expert
+    + MacOS: 10 years; Advanced
+    + Linux:3 years; Advanced
+    + iOS:6 years; Advanced
+    + Android: 2 years; Intern
  
 Programming Languages
  
