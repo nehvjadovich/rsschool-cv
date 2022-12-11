@@ -29,87 +29,32 @@
 * Operating systems:
     + MS Windows: 15 years; Expert
     + MacOS: 10 years; Advanced
-    + Linux:3 years; Advanced
-    + iOS:6 years; Advanced
+    + Linux: 3 years; Advanced
+    + iOS: 6 years; Advanced
     + Android: 2 years; Intern
  
-Programming Languages
+* Programming Languages:
+    + Swift: 0.2 years; Intern
  
+* RDBMS:
+    + SQL, Oracle (Toad, Data Pump), MySQL (MySQL Workbench), MSSQL: 3 years;Advanced
  
- 
+* Management Tool & Defect Tracking:
+    + Atlassian JIRA: 3 years; Advanced
+    + Atlassian Confluence: 2 years; Advanced
+    + TestRail: 1 year, Intern
+    + Redmine: 1 year, Intern
+    + IBM (Lotus) Notes: 2 years, Intern
 
+* Other Tools:
+ + xCode: 3 months; intern
+ + Android Studio/Android SDK 3: months; intern
++ Fiddler: 0.2 year; intern
++ Postman
++ Putty
++ VMware Workstation
++ IBM Websphere
 
-Swift
- 
-         
-        
-
- 
-        0.2
- 
- 
-     
-
- 
-     Intern
- 
-RDBMS
- 
- 
- 
-SQL, Oracle (Toad, Data Pump), MySQL (MySQL Workbench), MSSQL
-3
- 
- 
-Advanced
- 
- 
- 
- 
- 
- 
-Management Tool & Defect Tracking
- 
- 
- 
-Atlassian JIRA
-Atlassian Confluence
-3
-1
-Advanced
-Intern
- 
-TestRail
-Redmine
-IBM (Lotus) Notes
-1
-1
-2
-Intern
-Intern
-Intern
- 
- 
- 
- 
- 
-Other Tools
- 
- 
- 
-xCode
-Android Studio/Android SDK
-0.2
-0.2
-Intern
-Intern
- 
-Fiddler
-Postman
-Putty
-VMware Workstation
-IBM Websphere
-0.2
 0.5
 2
 2
