@@ -36,12 +36,15 @@
 - Has "Advanced" skills if one of the three criteria above is missing;
 - Has "Intern" skills if two of the three criteria above are missing.                         
 
-|||<br>**Experience, years**|<br>**Level**|
+|||**Experience, years**|**Level**|
 | :- | :- | :-: | :-: |
-|**Operating Systems**|||
+|**Operating Systems:**|||
 ||MS Windows|15|Expert|
-||<p>MacOS</p><p>Linux</p><p>iOS</p><p>ipadOS</p>|<p>10</p><p>3</p><p>6</p><p>4</p>|<p>Advanced</p><p>Advanced</p><p>Advanced</p><p>Advanced</p>|
-||Android|2|Intern|
+||MacOS|10|Advanced|
+||Linux|3|Advanced|
+||iOS|6|Advanced|
+||ipadOS|4|Advanced|
+||Android|2|Advanced|
 |<p></p><p>**Programming Languages**<br></p><p></p><p></p>|<p></p><p><br><br></p><p>Swift</p><p></p>|<p>          </p><p>         <br><br>   </p><p>`         `0.2</p><p></p>|<p></p><p>      <br><br>  </p><p>`      `Intern</p><p></p>|
 |**RDBMS**|||
 ||SQL, Oracle (Toad, Data Pump), MySQL (MySQL Workbench), MSSQL|<p>3</p><p></p><p></p>|<p>Advanced</p><p></p><p></p>|
