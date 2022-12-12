@@ -70,7 +70,7 @@ A skill is considered "Expert" if all three conditions below are satisfied:
 ||IBM Websphere|2|Advanced|
 |**Testing skills:**|||
 ||Web application / Cross-browser testing|4|Advanced|
-||Mobile and Tablet:|||
+||**Mobile and Tablet:**|||
 ||Android|1|Advanced|
 ||iOS|1|Advanced|
 ||Desktop applications|2|Advanced|
