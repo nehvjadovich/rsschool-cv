@@ -45,11 +45,9 @@
 ||iOS|7|Advanced|
 ||ipadOS|4|Advanced|
 ||Android|2|Advanced|
-
 |**Programming Languages:**|||
 ||Swift|0.2|Intern|
 ||JS|0.1|Intern|
-
 |**RDBMS:**|||
 ||SQL, Oracle (Toad, Data Pump), MySQL (MySQL Workbench), MSSQL|4|Advanced
 
