@@ -35,7 +35,6 @@ A skill is considered "Expert" if all three conditions below are satisfied:
 - Has 2+ years’ experience of recent experience in that skill.
 
 Has "Advanced" skills if one of the three criteria above is missing;
-
 Has "Intern" skills if two of the three criteria above are missing.                         
 
 |||**Experience, years**|**Level**|
@@ -60,6 +59,7 @@ Has "Intern" skills if two of the three criteria above are missing.
 ||IBM (Lotus) Notes|2|Intern|
 ||Azure DevOps|0.5|Intern|
 |**Technologies:**|||
+||SQL|4|Expert|
 ||XML|2|Advanced|
 ||JSON|1|Advanced|
 ||HTTP/REST|1|Advanced|
@@ -101,6 +101,60 @@ Has "Intern" skills if two of the three criteria above are missing.
 # Github (almost empty for now): 
 https://github.com/nehvjadovich/
 
+# **WORK EXPERIENCE:**
+
+||<p><h2>2022 - till now</h2></p><p><h2>*Effective soft*</h2></p>|
+| :- | :- |
+||<h2></h2>|
+||**Job Position**|QA Engineer|
+||**Roles**|Software Tester|
+||**Product**|**Internal project.** |
+||**Participation**|<p>- Conducted testing at all stages, such as Functional, Integration, GUI, </p><p>Smoke,and Regression testing.</p><p>- Creating, updating and reviewing of the test documentation – test-cases, check lists</p><p>- Issues verification </p><p>- Performed pre‐release and post‐release checking of applications</p><p>- Communicate with developers and BA</p><p>- Guiding, sharing experience with other project members</p><p>- Close cooperation with developers’ team within the whole of the development and testing process, release preparation and participation</p><p></p>|
+||**Team**|5 - 10|
+||<p></p><p>**Tools**</p>|Web, Jira.|
+||<h2>2021</h2>|
+||<h2>*Code Inspiration*</h2><br></h2>|
+||**Job Position**|QA Engineer|
+||**Roles**|QA Lead, Software Tester|
+||**Product**|**Time for you CRM.** Cleaner – Client – Franchise Management, Planning & connection system|
+||**Participation**|<p>- Test team Leader</p><p>- Requirements testing and analysis</p><p>- Platforms: IpadOS, Web</p><p>- Smoke, regression, integration, system, functional, module, UIUX testing</p><p>- Defects and improvement reporting to JIRA</p><p>- Cross - browser and cross - platform testing</p><p>- Communicated with developers and customers</p><p>- Project documentation keeping</p><p>- Sprint planning</p><p>- Manage and coordinate dev/QA team</p><p></p><p>- Participation in daily scrum meetings</p>|
+||**Team**|4 - 6|
+||<p></p><p>**Tools**</p>|Web, Selenium, Swagger, Postman, MySQL, Fiddler, Wireshark, Mailjet, Jira.|
+||<p><h2></h2></p><p><h2>2019 - 2020</h2></p>|
+||<h2>*Mebius*</h2>|
+||**Job Position**|QA Engineer|
+||**Roles**|Software Tester|
+||**Product**|<p>**Bank of Russia main banking system complex.** Designed to handle russian and other countries' bank accounts, exchange messages with them, report and control them.</p><p></p>|
+||**Participation**|<p>- Was involved in testing of all subsystems of the complex: RABIS - NP (core system), SPFS (swift - xml conversion subsystem), SBP (rapid bank message exchange system), modification system.</p><p>- Platforms: IBM Z, Z Linux, MS Server, SUSE Enterprise, Web.</p><p>- Conducted testing at all stages, such as functional, module, integration, UIUX, backend, White and Grey box, and installation testing</p><p>- Smoke, Regression testing and pushes to Production</p><p>- Creating, updating and reviewing of the test and requirment documentation – test - cases, check lists</p><p>- Defects reporting to IBM Notes</p><p>- Unix & Windows Server envoirment creation and managment </p><p>- Close cooperation with developers’ team within the whole of the development and testing process, release preparation and participation</p><p>- Security & Access level testing</p><p>- MQ & Crypto server integration tests</p>|
+||<p></p><p>**Team**</p>|<p></p><p>70+</p>|
+||<p></p><p>**Tools**</p>|Web,  IBM Websphere, IBM MQ, Oracle, MS SQL Server|
+||<h2></h2>|
+||<h2></h2>|
+||||
+||||
+||||
+||||
+||||
+||<h2></h2>|
+||<h2></h2>|
+# `              `**EDUCATION**
+
+||**Degree**|**Graduation year**|
+| :-: | :-: | :-: |
+|<p>**Minsk State Linguistic University**</p><p></p><p></p>|`    `English Teacher|<p></p><p>2014 - 2015 (in vacation)</p><p></p><p></p>|
+# `                 `**ADDITIONAL EDUCATION**
+`                                 `**1. My Monday,  “Software Testing”, 2019**
+
+`                                 `**2. High Tech Park Education Center, “Functional testing”, 2016 -2017**
+
+# `                 `**LANGUAGES**
+
+|**Russian**|Native|
+| - | :- |
+|<p>**English**</p><p><br>**Polish**</p>|Written: Upper-Intermediate|
+||Spoken: Upper-Intermediate<br>Elementary|
+
+**		  © 2022 EffectiveSoft. All rights reserved.
 
 
 
