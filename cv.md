@@ -35,13 +35,12 @@
 - Has 2+ years’ experience of recent experience in that skill.
 - Has "Advanced" skills if one of the three criteria above is missing;
 - Has "Intern" skills if two of the three criteria above are missing.                         
+|                                               |                                                                                        | <br>Experience, years                    | <br>Level                                       |
+| --------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------- |
+| Operating Systems                             |                                                                                        |                                          |
+|                                               | MS Windows                                                                             | 15                                       | Expert                                          |
+|                                               | MacOS
 
- |                                                 |                                                                                        | **<br>Experience, years**               | **<br>Level**                                   |
-| ----------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------- | ----------------------------------------------- |
-| **Operating Systems:**                           |                                                                                        |                                         |
-|                                                 | MS Windows                                                                             | 15                                      | Expert                                          |
-|                                                 | MacOS
-10                                      | Advanced                                          |
 Linux
 
 iOS
@@ -52,57 +51,51 @@ ipadOS                                                              | 10
 
 6
 
-4                             | Advanced
+4                              | Advanced
 
 Advanced
 
 Advanced
 
 Advanced          |
-|                                                 | Android                                                                                | 2                                       | Intern                                          |
+|                                               | Android                                                                                | 2                                        | Intern                                          |
 | <br>
 
-**Programming Languages<br>**
+Programming Languages<br><br>
 
-<br>
+<br><br> | <br>
 
-<br> | <br>
-
-<br><br>
+<br><br><br>
 
 Swift
 
-<br>                                                            |         <br><br>   
+<br>                                                        |          <br><br>   
 
-         0.2
+         0.2
 
 <br> | <br>
 
-     <br><br>  
+      <br><br>  
 
-      Intern
+      Intern
 
-<br>       |
-| **RDBMS**                                       |                                                                                        |                                         |
-|                                                 | SQL, Oracle (Toad, Data Pump), MySQL (MySQL Workbench), MSSQL                          | 3
+<br>      |
+| RDBMS                                         |                                                                                        |                                          |
+|                                               | SQL, Oracle (Toad, Data Pump), MySQL (MySQL Workbench), MSSQL                          | 3
 
-<br>
+<br><br>                              | Advanced
 
-<br>                           | Advanced
-
-<br>
-
-<br>                            |
-|                                                 |                                                                                        |                                         |                                                 |
-| **Management Tool & Defect Tracking**           |                                                                                        |                                         |
-|                                                 | Atlassian JIRA 
+<br><br>                              |
+|                                               |                                                                                        |                                          |                                                 |
+| Management Tool & Defect Tracking             |                                                                                        |                                          |
+|                                               | Atlassian JIRA 
 
 Atlassian Confluence                                                  | 3
 
-1                                    | Advanced
+1                                     | Advanced
 
 Intern                                |
-|                                                 | TestRail
+|                                               | TestRail
 
 Redmine
 
@@ -110,27 +103,27 @@ IBM (Lotus) Notes                                                   | 1
 
 1
 
-2                                 | Intern
+2                                  | Intern
 
 Intern
 
 Intern
 
 <br>                    |
-|                                                 |                                                                                        |                                         |                                                 |
-| **Other Tools**                                 |                                                                                        |                                         |
-|                                                 | xCode
+|                                               |                                                                                        |                                          |                                                 |
+| Other Tools                                   |                                                                                        |                                          |
+|                                               | xCode
 
 Android Studio/Android SDK                                                      | 0.2
 
-0.2                                | Intern
+0.2                                 | Intern
 
 Intern                                  |
-|                                                 | Fiddler
+|                                               | Fiddler
 
 Postman
 
-Putty 
+Putty 
 
 VMware Workstation
 
@@ -144,7 +137,7 @@ IBM Websphere                            | 0.2
 
 2
 
-<br>                 | Intern Advanced
+<br>                  | Intern Advanced
 
 Expert
 
@@ -153,23 +146,23 @@ Expert
 Advanced
 
 <br> |
-|                                                 |                                                                                        |                                         |                                                 |
-|                                                 |                                                                                        |                                         |
-|                                                 |                                                                                        |                                         |                                                 |
-| **Testing skills**                              |                                                                                        |                                         |
-|                                                 | Web application / Cross-browser testing                                                | 3                                       |    Advanced                                     |
-|                                                 | Mobile and Tablet:                                                                     |                                         |                                                 |
-|                                                 | Android                                                                                | 1                                       |   Advanced                                      |
-|                                                 | iOS                                                                                    | 1                                       |   Advanced                                      |
-|                                                 | Desktop application                                                                    | 1                                       |   Advanced                                      |
-|                                                 | Regression testing
+|                                               |                                                                                        |                                          |                                                 |
+|                                               |                                                                                        |                                          |
+|                                               |                                                                                        |                                          |                                                 |
+| Testing skills                                |                                                                                        |                                          |
+|                                               | Web application / Cross-browser testing                                                | 3                                        |   Advanced                                      |
+|                                               | Mobile and Tablet:                                                                     |                                          |                                                 |
+|                                               | Android                                                                                | 1                                        |   Advanced                                      |
+|                                               | iOS                                                                                    | 1                                        |   Advanced                                      |
+|                                               | Desktop application                                                                    | 1                                        |   Advanced                                      |
+|                                               | Regression testing
 
 Exploratory testing                                                | 3
 
-3                                    |   Advanced
+3                                     |   Advanced
 
-  Advanced                          |
-|                                                 | <br>Functional testing
+  Advanced                          |
+|                                               | <br>Functional testing
 
 Usability testing
 
@@ -183,13 +176,13 @@ Accessibility testing | <br>
 
 1
 
-0,2                      |   Expert
+0,2                       |   Expert
 
-  Advanced
+  Advanced
 
-  Intern
+  Intern
 
-  Intern        |
+  Intern        |
 
 # Github (almost empty for now): 
 https://github.com/nehvjadovich/
