@@ -39,16 +39,20 @@
 |||**Experience, years**|**Level**|
 | :- | :- | :-: | :-: |
 |**Operating Systems:**|||
-||MS Windows|15|Expert|
-||MacOS|10|Advanced|
+||MS Windows|16|Expert|
+||MacOS|11|Advanced|
 ||Linux|3|Advanced|
-||iOS|6|Advanced|
+||iOS|7|Advanced|
 ||ipadOS|4|Advanced|
 ||Android|2|Advanced|
-|<p></p><p>**Programming Languages**<br></p><p></p><p></p>|<p></p><p><br><br></p><p>Swift</p><p></p>|<p>          </p><p>         <br><br>   </p><p>`         `0.2</p><p></p>|<p></p><p>      <br><br>  </p><p>`      `Intern</p><p></p>|
-|**RDBMS**|||
-||SQL, Oracle (Toad, Data Pump), MySQL (MySQL Workbench), MSSQL|<p>3</p><p></p><p></p>|<p>Advanced</p><p></p><p></p>|
-|||||
+
+|**Programming Languages:**|||
+||Swift|0.2|Intern|
+||JS|0.1|Intern|
+
+|**RDBMS:**|||
+||SQL, Oracle (Toad, Data Pump), MySQL (MySQL Workbench), MSSQL|4|Advanced
+
 |**Management Tool & Defect Tracking**|||
 ||<p>Atlassian JIRA </p><p>Atlassian Confluence</p>|<p>3</p><p>1</p>|<p>Advanced</p><p>Intern</p>|
 ||<p>TestRail</p><p>Redmine</p><p>IBM (Lotus) Notes</p>|<p>1</p><p>1</p><p>2</p>|<p>Intern</p><p>Intern</p><p>Intern</p><p></p>|
