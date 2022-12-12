@@ -57,22 +57,29 @@
 ||Redmine|1|Intern|
 ||IBM (Lotus) Notes|2|Intern|
 ||Azure DevOps|0.5|Intern|
-|**Other Tools**|||
+|**Other Tools:**|||
 ||xCode|0.2|Intern|
-|Android Studio/Android SDK|0.5|Intern|
-|Fiddler|0.5|Intern|
-|Postman|0.5|Advanced|
-|Putty|2|Expert|
-|VMware Workstation|2|Expert|
-|IBM Websphere|2|Advanced|
-|**Testing skills**|||
-||Web application / Cross-browser testing|3|`   `Advanced|
+||Android Studio/Android SDK|0.5|Intern|
+||VSCode|0.1|Intern|
+||Fiddler|0.5|Intern|
+||Postman|0.5|Advanced|
+||Git/Github/Svm|2|Intern|
+||MS Power BI|0.5|Advanced|
+||Putty|2|Expert|
+||VMware Workstation|2|Expert|
+||IBM Websphere|2|Advanced|
+|**Testing skills:**|||
+||Web application / Cross-browser testing|4|Advanced|
 ||Mobile and Tablet:|||
-||Android|1|`  `Advanced|
-||iOS|1|`  `Advanced|
-||Desktop application|1|`  `Advanced|
-||<p>Regression testing</p><p>Exploratory testing</p>|<p>3</p><p>3</p>|<p>`  `Advanced</p><p>`  `Advanced</p>|
-||<p><br>Functional testing</p><p>Usability testing</p><p>Localization testing</p><p>Accessibility testing</p>|<p></p><p>3</p><p>3</p><p>1</p><p>0,2</p>|<p> </p><p>`  `Expert</p><p>`  `Advanced</p><p>`  `Intern</p><p>`  `Intern</p>|
+||Android|1|Advanced|
+||iOS|1|Advanced|
+||Desktop applications|2|Advanced|
+||Regression testing|4|Advanced|
+||Exploratory testing|4|Advanced|
+||Functional testing|4|Expert|
+||Usability testing|4|Advanced|
+||Localization testing|1|Intern|
+||Accessibility testing|0.2|Intern|
 # Github (almost empty for now): 
 https://github.com/nehvjadovich/
 
