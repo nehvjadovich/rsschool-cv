@@ -29,7 +29,7 @@
 
 # Skill Table
 ## Legend:
-* A skill is considered "Expert" if all three conditions below are satisfied:
+A skill is considered "Expert" if all three conditions below are satisfied:
 - Has expert level theoretical knowledge in that particular skill;
 - Has completed at least two major project with key requirement for the skill;
 - Has 2+ years’ experience of recent experience in that skill.
