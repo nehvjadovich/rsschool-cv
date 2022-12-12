@@ -36,155 +36,34 @@
 - Has "Advanced" skills if one of the three criteria above is missing;
 - Has "Intern" skills if two of the three criteria above are missing.                         
 
-|                                               |                                                                                        | <br>Experience, years                    | <br>Level                                       |
-| --------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------- |
-| Operating Systems                             |                                                                                        |                                          |
-|                                               | MS Windows                                                                             | 15                                       | Expert                                          |
-|                                               | MacOS
-
-Linux
-
-iOS
-
-ipadOS                                                              | 10
-
-3
-
-6
-
-4                              | Advanced
-
-Advanced
-
-Advanced
-
-Advanced          |
-|                                               | Android                                                                                | 2                                        | Intern                                          |
-| <br>
-
-Programming Languages<br><br>
-
-<br><br> | <br>
-
-<br><br><br>
-
-Swift
-
-<br>                                                        |          <br><br>   
-
-         0.2
-
-<br> | <br>
-
-      <br><br>  
-
-      Intern
-
-<br>      |
-| RDBMS                                         |                                                                                        |                                          |
-|                                               | SQL, Oracle (Toad, Data Pump), MySQL (MySQL Workbench), MSSQL                          | 3
-
-<br><br>                              | Advanced
-
-<br><br>                              |
-|                                               |                                                                                        |                                          |                                                 |
-| Management Tool & Defect Tracking             |                                                                                        |                                          |
-|                                               | Atlassian JIRA 
-
-Atlassian Confluence                                                  | 3
-
-1                                     | Advanced
-
-Intern                                |
-|                                               | TestRail
-
-Redmine
-
-IBM (Lotus) Notes                                                   | 1
-
-1
-
-2                                  | Intern
-
-Intern
-
-Intern
-
-<br>                    |
-|                                               |                                                                                        |                                          |                                                 |
-| Other Tools                                   |                                                                                        |                                          |
-|                                               | xCode
-
-Android Studio/Android SDK                                                      | 0.2
-
-0.2                                 | Intern
-
-Intern                                  |
-|                                               | Fiddler
-
-Postman
-
-Putty 
-
-VMware Workstation
-
-IBM Websphere                            | 0.2
-
-0.5
-
-2
-
-2
-
-2
-
-<br>                  | Intern Advanced
-
-Expert
-
-Expert
-
-Advanced
-
-<br> |
-|                                               |                                                                                        |                                          |                                                 |
-|                                               |                                                                                        |                                          |
-|                                               |                                                                                        |                                          |                                                 |
-| Testing skills                                |                                                                                        |                                          |
-|                                               | Web application / Cross-browser testing                                                | 3                                        |   Advanced                                      |
-|                                               | Mobile and Tablet:                                                                     |                                          |                                                 |
-|                                               | Android                                                                                | 1                                        |   Advanced                                      |
-|                                               | iOS                                                                                    | 1                                        |   Advanced                                      |
-|                                               | Desktop application                                                                    | 1                                        |   Advanced                                      |
-|                                               | Regression testing
-
-Exploratory testing                                                | 3
-
-3                                     |   Advanced
-
-  Advanced                          |
-|                                               | <br>Functional testing
-
-Usability testing
-
-Localization testing
-
-Accessibility testing | <br>
-
-3
-
-3
-
-1
-
-0,2                       |   Expert
-
-  Advanced
-
-  Intern
-
-  Intern        |
-
+|||<br>**Experience, years**|<br>**Level**|
+| :- | :- | :-: | :-: |
+|**Operating Systems**|||
+||MS Windows|15|Expert|
+||<p>MacOS</p><p>Linux</p><p>iOS</p><p>ipadOS</p>|<p>10</p><p>3</p><p>6</p><p>4</p>|<p>Advanced</p><p>Advanced</p><p>Advanced</p><p>Advanced</p>|
+||Android|2|Intern|
+|<p></p><p>**Programming Languages**<br></p><p></p><p></p>|<p></p><p><br><br></p><p>Swift</p><p></p>|<p>          </p><p>         <br><br>   </p><p>`         `0.2</p><p></p>|<p></p><p>      <br><br>  </p><p>`      `Intern</p><p></p>|
+|**RDBMS**|||
+||SQL, Oracle (Toad, Data Pump), MySQL (MySQL Workbench), MSSQL|<p>3</p><p></p><p></p>|<p>Advanced</p><p></p><p></p>|
+|||||
+|**Management Tool & Defect Tracking**|||
+||<p>Atlassian JIRA </p><p>Atlassian Confluence</p>|<p>3</p><p>1</p>|<p>Advanced</p><p>Intern</p>|
+||<p>TestRail</p><p>Redmine</p><p>IBM (Lotus) Notes</p>|<p>1</p><p>1</p><p>2</p>|<p>Intern</p><p>Intern</p><p>Intern</p><p></p>|
+|||||
+|**Other Tools**|||
+||<p>xCode</p><p>Android Studio/Android SDK</p>|<p>0.2</p><p>0.2</p>|<p>Intern</p><p>Intern</p>|
+||<p>Fiddler</p><p>Postman</p><p>Putty </p><p>VMware Workstation</p><p>IBM Websphere</p>|<p>0.2</p><p>0.5</p><p>2</p><p>2</p><p>2</p><p></p>|<p>Intern Advanced</p><p>Expert</p><p>Expert</p><p>Advanced</p><p></p>|
+|||||
+||||
+|||||
+|**Testing skills**|||
+||Web application / Cross-browser testing|3|`   `Advanced|
+||Mobile and Tablet:|||
+||Android|1|`  `Advanced|
+||iOS|1|`  `Advanced|
+||Desktop application|1|`  `Advanced|
+||<p>Regression testing</p><p>Exploratory testing</p>|<p>3</p><p>3</p>|<p>`  `Advanced</p><p>`  `Advanced</p>|
+||<p><br>Functional testing</p><p>Usability testing</p><p>Localization testing</p><p>Accessibility testing</p>|<p></p><p>3</p><p>3</p><p>1</p><p>0,2</p>|<p> </p><p>`  `Expert</p><p>`  `Advanced</p><p>`  `Intern</p><p>`  `Intern</p>|
 # Github (almost empty for now): 
 https://github.com/nehvjadovich/
 
