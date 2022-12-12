@@ -35,6 +35,7 @@
 - Has 2+ years’ experience of recent experience in that skill.
 - Has "Advanced" skills if one of the three criteria above is missing;
 - Has "Intern" skills if two of the three criteria above are missing.                         
+
 |                                               |                                                                                        | <br>Experience, years                    | <br>Level                                       |
 | --------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------- |
 | Operating Systems                             |                                                                                        |                                          |
