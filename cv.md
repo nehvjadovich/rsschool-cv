@@ -27,7 +27,16 @@
 * Good communication skills; collaboration and interpersonal skills;
 * Understanding of blockchain & cryptocurrency technologies.
 
-|                                                 |                                                                                        | **<br>Experience, years**               | **<br>Level**                                   |
+# Skill Table
+## Legend:
+* A skill is considered "Expert" if all three conditions below are satisfied:
+- Has expert level theoretical knowledge in that particular skill;
+- Has completed at least two major project with key requirement for the skill;
+- Has 2+ years’ experience of recent experience in that skill.
+- Has "Advanced" skills if one of the three criteria above is missing;
+- Has "Intern" skills if two of the three criteria above are missing.                         
+
+ |                                                 |                                                                                        | **<br>Experience, years**               | **<br>Level**                                   |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------- | ----------------------------------------------- |
 | **Operating Systems**                           |                                                                                        |                                         |
 |                                                 | MS Windows                                                                             | 15                                      | Expert                                          |
@@ -63,15 +72,15 @@ Advanced          |
 
 Swift
 
-<br>                                                            |         <br><br>   
+<br>                                                            |         <br><br>   
 
-         0.2
+         0.2
 
 <br> | <br>
 
-     <br><br>  
+     <br><br>  
 
-      Intern
+      Intern
 
 <br>       |
 | **RDBMS**                                       |                                                                                        |                                         |
@@ -86,7 +95,7 @@ Swift
 <br>                            |
 |                                                 |                                                                                        |                                         |                                                 |
 | **Management Tool & Defect Tracking**           |                                                                                        |                                         |
-|                                                 | Atlassian JIRA 
+|                                                 | Atlassian JIRA 
 
 Atlassian Confluence                                                  | 3
 
@@ -121,7 +130,7 @@ Intern                                  |
 
 Postman
 
-Putty 
+Putty 
 
 VMware Workstation
 
@@ -148,18 +157,18 @@ Advanced
 |                                                 |                                                                                        |                                         |
 |                                                 |                                                                                        |                                         |                                                 |
 | **Testing skills**                              |                                                                                        |                                         |
-|                                                 | Web application / Cross-browser testing                                                | 3                                       |    Advanced                                     |
+|                                                 | Web application / Cross-browser testing                                                | 3                                       |    Advanced                                     |
 |                                                 | Mobile and Tablet:                                                                     |                                         |                                                 |
-|                                                 | Android                                                                                | 1                                       |   Advanced                                      |
-|                                                 | iOS                                                                                    | 1                                       |   Advanced                                      |
-|                                                 | Desktop application                                                                    | 1                                       |   Advanced                                      |
+|                                                 | Android                                                                                | 1                                       |   Advanced                                      |
+|                                                 | iOS                                                                                    | 1                                       |   Advanced                                      |
+|                                                 | Desktop application                                                                    | 1                                       |   Advanced                                      |
 |                                                 | Regression testing
 
 Exploratory testing                                                | 3
 
-3                                    |   Advanced
+3                                    |   Advanced
 
-  Advanced                          |
+  Advanced                          |
 |                                                 | <br>Functional testing
 
 Usability testing
@@ -174,111 +183,13 @@ Accessibility testing | <br>
 
 1
 
-0,2                      |   Expert
+0,2                      |   Expert
 
-  Advanced
-
-  Intern
-
-  Intern        |
-
-* Operating systems:
-    + MS Windows: 15 years; Expert
-    + MacOS: 10 years; Advanced
-    + Linux: 3 years; Advanced
-    + iOS: 6 years; Advanced
-    + Android: 2 years; Intern
- 
-* Programming Languages:
-    + Swift: 0.2 years; Intern
- 
-* RDBMS:
-    + SQL, Oracle (Toad, Data Pump), MySQL (MySQL Workbench), MSSQL: 3 years;Advanced
- 
-* Management Tool & Defect Tracking:
-    + Atlassian JIRA: 3 years; Advanced
-    + Atlassian Confluence: 2 years; Advanced
-    + TestRail: 1 year, Intern
-    + Redmine: 1 year, Intern
-    + IBM (Lotus) Notes: 2 years, Intern
-
-* Other Tools:
- + xCode: 3 months; intern
- + Android Studio/Android SDK 3: months; intern
-+ Fiddler: 0.2 year; intern
-+ Postman
-+ Putty
-+ VMware Workstation
-+ IBM Websphere
-
-0.5
-2
-2
-2
- 
-Intern Advanced
-Expert
-Expert
-Advanced
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Testing skills
- 
- 
- 
-Web application / Cross-browser testing
-3
   Advanced
- 
-Mobile and Tablet:
- 
- 
- 
-Android
-1
- Advanced
- 
-iOS
-1
- Advanced
- 
-Desktop application
-1
- Advanced
- 
-Regression testing
-Exploratory testing
-3
-3
- Advanced
- Advanced
- 
 
-Functional testing
-Usability testing
-Localization testing
-Accessibility testing
- 
-3
-3
-1
-0,2
- 
- Expert
- Advanced
- Intern
- Intern
+  Intern
 
+  Intern        |
 
 # Github (almost empty for now): 
 https://github.com/nehvjadovich/
