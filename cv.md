@@ -57,34 +57,48 @@ A skill is considered "Expert" if all three conditions below are satisfied:
 ||Redmine|1|Intern|
 ||IBM (Lotus) Notes|2|Intern|
 ||Azure DevOps|0.5|Intern|
-|**Other Tools:**|||
+|**Technologies:**|||
+||XML|2|Advanced|
+||JSON|1|Advanced|
+||HTTP/REST|1|Advanced|
+||HTML|0.5|Andvanced|
+||TCP/IP|2|Expert|
+|**Tools:**|||
 ||xCode|0.2|Intern|
 ||Android Studio/Android SDK|0.5|Intern|
 ||VSCode|0.1|Intern|
-||Fiddler|0.5|Intern|
 ||Postman|0.5|Advanced|
+||Selenium|0.5|Intern|
 ||Git/Github/Svm|2|Intern|
 ||MS Power BI|0.5|Advanced|
+||Jmeter|1|Advanced|
+||Fiddler|0.5|Intern|
+||Wireshark|1|Advanced|
+||IBM MQ|2|Expert|
 ||Putty|2|Expert|
 ||VMware Workstation|2|Expert|
 ||IBM Websphere|2|Advanced|
+||Araxis Merge|2|Advanced|
+||Notepad ++|3|Advanced|
 |**Testing skills:**|||
 ||Web application / Cross-browser testing|4|Advanced|
-||**Mobile and Tablet:**|||
 ||Android|1|Advanced|
 ||iOS|1|Advanced|
 ||Desktop applications|2|Advanced|
+||Automation|0.5|Intern|
+||API Testing|1|Expert|
 ||Regression testing|4|Advanced|
 ||Exploratory testing|4|Advanced|
 ||Functional testing|4|Expert|
+||Data - driven testing (Big Data)|0.5|Advanced|
 ||Usability testing|4|Advanced|
 ||Localization testing|1|Intern|
 ||Accessibility testing|0.2|Intern|
+||DB Testing|3|Advanced|
+
 # Github (almost empty for now): 
 https://github.com/nehvjadovich/
 
-Azure DevOps,
-HTML, HTTP, TCP/IP, XML, SQL, Java (Intern), Oracle DB, MSSQL, Linux, MSServer,
-MacOS, Scrum,IBM WAS, IBM MQ.
-Tools: Selenium, Fiddler, Jira, Redmine, Notepad ++, Araxis Merge, Jmeter, Wireshark, Fiddler.
+
+
 
