@@ -49,18 +49,22 @@
 ||Swift|0.2|Intern|
 ||JS|0.1|Intern|
 |**RDBMS:**|||
-||SQL, Oracle (Toad, Data Pump), MySQL (MySQL Workbench), MSSQL|4|Advanced
-
-|**Management Tool & Defect Tracking**|||
-||<p>Atlassian JIRA </p><p>Atlassian Confluence</p>|<p>3</p><p>1</p>|<p>Advanced</p><p>Intern</p>|
-||<p>TestRail</p><p>Redmine</p><p>IBM (Lotus) Notes</p>|<p>1</p><p>1</p><p>2</p>|<p>Intern</p><p>Intern</p><p>Intern</p><p></p>|
-|||||
+||SQL, Oracle (Toad, Data Pump), MySQL (MySQL Workbench), MSSQL (SQL Management Studio) |4|Advanced
+|**Management Tool & Defect Tracking:**|||
+||Atlassian JIRA|3|Advanced|
+||Atlassian Confluence||Intern|
+||TestRail|1|Intern|
+||Redmine|1|Intern|
+||IBM (Lotus) Notes|2|Intern|
+||Azure DevOps|0.5|Intern|
 |**Other Tools**|||
-||<p>xCode</p><p>Android Studio/Android SDK</p>|<p>0.2</p><p>0.2</p>|<p>Intern</p><p>Intern</p>|
-||<p>Fiddler</p><p>Postman</p><p>Putty </p><p>VMware Workstation</p><p>IBM Websphere</p>|<p>0.2</p><p>0.5</p><p>2</p><p>2</p><p>2</p><p></p>|<p>Intern Advanced</p><p>Expert</p><p>Expert</p><p>Advanced</p><p></p>|
-|||||
-||||
-|||||
+||xCode|0.2|Intern|
+|Android Studio/Android SDK|0.5|Intern|
+|Fiddler|0.5|Intern|
+|Postman|0.5|Advanced|
+|Putty|2|Expert|
+|VMware Workstation|2|Expert|
+|IBM Websphere|2|Advanced|
 |**Testing skills**|||
 ||Web application / Cross-browser testing|3|`   `Advanced|
 ||Mobile and Tablet:|||
