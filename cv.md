@@ -33,7 +33,9 @@ A skill is considered "Expert" if all three conditions below are satisfied:
 - Has expert level theoretical knowledge in that particular skill;
 - Has completed at least two major project with key requirement for the skill;
 - Has 2+ years’ experience of recent experience in that skill.
+
 Has "Advanced" skills if one of the three criteria above is missing;
+
 Has "Intern" skills if two of the three criteria above are missing.                         
 
 |||**Experience, years**|**Level**|
@@ -61,7 +63,7 @@ Has "Intern" skills if two of the three criteria above are missing.
 ||XML|2|Advanced|
 ||JSON|1|Advanced|
 ||HTTP/REST|1|Advanced|
-||HTML|0.5|Andvanced|
+||HTML|0.5|Advanced|
 ||TCP/IP|2|Expert|
 |**Tools:**|||
 ||xCode|0.2|Intern|
