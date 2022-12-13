@@ -125,7 +125,7 @@ Has "Intern" skills if two of the three criteria above are missing.
 | -: | :- |
 |**Roles**|Software Tester|
 |**Product**|**Internal project**|
-|Participation|Conducted testing at all stages, such as Functional, Integration, GUI, Smoke,and Regression testing. <br/>Creating, updating and reviewing of the test documentation – test-cases, check lists <br/>Issues verification <br/>Performed pre‐release and post‐release checking of applications <br/>Communicate with developers and BA <br/>Guiding, sharing experience with other project members <br/>Close cooperation with developers team within the whole of the development and testing process, release preparation and participation|
+|Participation|<li>Conducted testing at all stages, such as Functional, Integration, GUI, Smoke,and Regression testing.</li><li>Creating, updating and reviewing of the test documentation – test-cases, check lists</li><li>Issues verification</li><li>Performed pre‐release and post‐release checking of applications</li><li>Communicate with developers and BA</li><li>Guiding, sharing experience with other project members</li><li>Close cooperation with developers team within the whole of the development and testing process, release preparation and participation</li>|
 |Team|5 10|
 |Tools|Web, Jira.|
 
