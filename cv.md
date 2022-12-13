@@ -51,33 +51,34 @@ Has "Intern" skills if two of the three criteria above are missing.
 ---
 
 |||Experience (years)|Level|
-|Operating Systems:||||
+| :| :| :-: | :-: |
+|Operating Systems||||
 ||MS Windows|16|Expert|
 ||MacOS|11|Advanced|
 ||Linux|3|Advanced|
 ||iOS|7|Advanced|
 ||ipadOS|4|Advanced|
 ||Android|2|Advanced|
-|Programming Languages:|||
+|Programming Languages|||
 ||Swift|0.2|Intern|
 ||JS|0.1|Intern|
-|RDBMS:||||
+|RDBMS||||
 ||SQL, Oracle (Toad, Data Pump), MySQL (MySQL Workbench), MSSQL (SQL Management Studio) |4|Advanced
-|Management Tool & Defect Tracking:|||
+|Management Tool & Defect Tracking|||
 ||Atlassian JIRA|3|Advanced|
 ||Atlassian Confluence||Intern|
 ||TestRail|1|Intern|
 ||Redmine|1|Intern|
 ||IBM (Lotus) Notes|2|Intern|
 ||Azure DevOps|0.5|Intern|
-|Technologies:|||
+|Technologies|||
 ||SQL|4|Expert|
 ||XML|2|Advanced|
 ||JSON|1|Advanced|
 ||HTTP/REST|1|Advanced|
 ||HTML|0.5|Advanced|
 ||TCP/IP|2|Expert|
-|Tools:|||
+|Tools|||
 ||xCode|0.2|Intern|
 ||Android Studio/Android SDK|0.5|Intern|
 ||VSCode|0.1|Intern|
@@ -94,7 +95,7 @@ Has "Intern" skills if two of the three criteria above are missing.
 ||IBM Websphere|2|Advanced|
 ||Araxis Merge|2|Advanced|
 ||Notepad ++|3|Advanced|
-|Testing skills:|||
+|Testing skills|||
 ||Web application / Cross-browser testing|4|Advanced|
 ||Android|1|Advanced|
 ||iOS|1|Advanced|
@@ -122,7 +123,7 @@ Has "Intern" skills if two of the three criteria above are missing.
 | :| :|
 |Roles|Software Tester|
 |Product|Internal project|
-|Participation|<li>Conducted testing at all stages, such as Functional, Integration, GUI, Smoke,and Regression testing.</li><li>Creating, updating and reviewing of the test documentation – test-cases, check lists</li><li>Issues verification </li><li>Performed pre‐release and post‐release checking of applications</li><li>Communicate with developers and BA</li><li>Guiding, sharing experience with other project members</li><li>Close cooperation with developers team within the whole of the development and testing process, release preparation and participation</li>|
+|Participation|<ul><li>Conducted testing at all stages, such as Functional, Integration, GUI, Smoke,and Regression testing.</li><li>Creating, updating and reviewing of the test documentation – test-cases, check lists</li><li>Issues verification </li><li>Performed pre‐release and post‐release checking of applications</li><li>Communicate with developers and BA</li><li>Guiding, sharing experience with other project members</li><li>Close cooperation with developers team within the whole of the development and testing process, release preparation and participation</li></ul>|
 |Team|5 10|
 |Tools|Web, Jira.|
 
