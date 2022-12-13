@@ -124,9 +124,8 @@ Has "Intern" skills if two of the three criteria above are missing.
 |**Job Position**|QA Engineer|
 | :- | :- |
 |**Roles**|Data QA/Analytic|
-|**Product**|**Innovacare** Big data, ML healthcare project|
-|Participation|<li>Requirements testing and analysis</li><li>Test cases</li><li>Bug reports</li><li>
-Bug & Data verification & validation</li>
+|**Product**|**Innovacare.** Big data & ML healthcare-related project|
+|Participation|<li>Requirements testing and analysis</li><li>Test cases</li><li>Bug reports</li><li>Bug & Data verification & validation</li>
 |**Team**|10|
 |**Tools**|Microsoft Azure Cloud; Power BI; MSSQL; MSExcel|
 
@@ -159,6 +158,7 @@ Bug & Data verification & validation</li>
 ## **ADDITIONAL EDUCATION**
 
 |My Monday|“Software Testing”|2019|
+| :-: | :-: | :-: |
 |High Tech Park Education Center|“Functional testing”|2016 - 2017|
 
 ## **LANGUAGES**
