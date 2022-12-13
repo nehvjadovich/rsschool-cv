@@ -159,7 +159,7 @@ Participation in daily scrum meetings|
 ## 2019 - 2020 *Mebius*
 
 |**Job Position**|QA Engineer|
-| :-: | :-: |
+| : | : |
 |**Roles**|Software Tester|
 |**Product**|**Bank of Russia main banking system complex.** Designed to handle russian and other countries' bank accounts, exchange messages with them, report and control them.
 |**Participation**|
