@@ -158,11 +158,11 @@ Participation in daily scrum meetings|
 
 ## 2019 - 2020 *Mebius*
 
-||**Job Position**|QA Engineer|
-| :-: | :-: | :-: |
-||**Roles**|Software Tester|
-||**Product**|**Bank of Russia main banking system complex.** Designed to handle russian and other countries' bank accounts, exchange messages with them, report and control them.
-||**Participation**|
+|**Job Position**|QA Engineer|
+| :-: | :-: |
+|**Roles**|Software Tester|
+|**Product**|**Bank of Russia main banking system complex.** Designed to handle russian and other countries' bank accounts, exchange messages with them, report and control them.
+|**Participation**|
 Was involved in testing of all subsystems of the complex: RABIS NP (core system), SPFS (swift xml conversion subsystem), SBP (rapid bank message exchange system), modification system.
 Platforms: IBM Z, Z Linux, MS Server, SUSE Enterprise, Web.
 Conducted testing at all stages, such as functional, module, integration, UIUX, backend, White and Grey box, and installation testing
@@ -173,8 +173,8 @@ Unix & Windows Server envoirment creation and managment
 Close cooperation with developers’ team within the whole of the development and testing process, release preparation and participation
 Security & Access level testing
 MQ & Crypto server integration tests|
-||**Team**|70+|
-||**Tools**|Web, IBM Websphere, IBM MQ, Oracle, MS SQL Server|
+|**Team**|70+|
+|**Tools**|Web, IBM Websphere, IBM MQ, Oracle, MS SQL Server|
 
 ## **EDUCATION**
 
