@@ -159,6 +159,6 @@ Has "Intern" skills if two of the three criteria above are missing.
 
 ## **LANGUAGES**
 
-|**Russian**|Native|
-|**English**|Written: Upper-Intermediate; Spoken: Upper-Intermediate
-|**Polish**|Elementary|
+|Russian|Native|
+|English|Written: Upper-Intermediate; Spoken: Upper-Intermediate|
+|Polish|Elementary|
