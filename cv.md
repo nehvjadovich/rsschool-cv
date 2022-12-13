@@ -122,54 +122,30 @@ Has "Intern" skills if two of the three criteria above are missing.
 ### 2022  *Effective soft*
 
 |**Job Position**|QA Engineer|
-| -: | :- |
+| :- | :- |
 |**Roles**|Software Tester|
 |**Product**|**Internal project**|
-|Participation|<li>Conducted testing at all stages, such as Functional, Integration, GUI, Smoke,and Regression testing.</li><li>Creating, updating and reviewing of the test documentation – test-cases, check lists</li><li>Issues verification</li><li>Performed pre‐release and post‐release checking of applications</li><li>Communicate with developers and BA</li><li>Guiding, sharing experience with other project members</li><li>Close cooperation with developers team within the whole of the development and testing process, release preparation and participation</li>|
+|Participation|<li>Conducted testing at all stages, such as Functional, Integration, GUI, Smoke,and Regression testing</li><li>Creating, updating and reviewing of the test documentation – test-cases, check lists</li><li>Issues verification</li><li>Performed pre‐release and post‐release checking of applications</li><li>Communicate with developers and BA</li><li>Guiding, sharing experience with other project members</li><li>Close cooperation with developers team within the whole of the development and testing process, release preparation and participation</li>|
 |Team|5 10|
 |Tools|Web, Jira.|
 
 ### 2021 *Code Inspiration*
 
 |**Job Position**|QA Engineer|
-| :- | :-: |
+| :- | :- |
 |**Roles**|QA Lead, Software Tester|
 |**Product**|**Time for you CRM.** Cleaner to Client Franchise Management, Planning & connection system.|
-|**Participation**|
-
-* Test team Leader
-* Requirements testing and analysis
-* Platforms: IpadOS, Web
-* Smoke, regression, integration, system, functional, module, UIUX testing
-* Defects and improvement reporting to JIRA
-* Cross browser and cross platform testing
-* Communicated with developers and customers
-* Project documentation keeping
-* Sprint planning
-* Manage and coordinate dev/QA team
-
-Participation in daily scrum meetings|
+|**Participation**|<li>Test team Lead</li><li>Requirements testing and analysis</li><li>Platforms: IpadOS, Web</li><li>Smoke, regression, integration, system, functional, module, UIUX testing</li><li>Defects and improvement reporting to JIRA</li><li>Cross browser and cross platform testing</li><li>Communicated with developers and customers</li><li>Project documentation keeping</li><li>Sprint planning</li><li>Manage and coordinate dev/QA team</li><li>Participation in daily scrum meetings</li>|
 |**Team**|4 - 6|
 |**Tools**|Web, Selenium, Swagger, Postman, MySQL, Fiddler, Wireshark, Mailjet, Jira.|
 
-## 2019 - 2020 *Mebius*
+### 2019 - 2020 *Mebius*
 
 |**Job Position**|QA Engineer|
 | :- | :-: |
 |**Roles**|Software Tester|
 |**Product**|**Bank of Russia main banking system complex.** Designed to handle russian and other countries' bank accounts, exchange messages with them, report and control them.
-|**Participation**|
-
-* Was involved in testing of all subsystems of the complex: RABIS NP (core system), SPFS (swift xml conversion subsystem), SBP (rapid bank message exchange system), modification system.
-* Platforms: IBM Z, Z Linux, MS Server, SUSE Enterprise, Web.
-* Conducted testing at all stages, such as functional, module, integration, UIUX, backend, White and Grey box, and installation testing
-* Smoke, Regression testing and pushes to Production
-* Creating, updating and reviewing of the test and requirment documentation – test cases, check lists
-* Defects reporting to IBM Notes
-* Unix & Windows Server envoirment creation and managment
-* Close cooperation with developers’ team within the whole of the development and testing process, release preparation and participation
-* Security & Access level testing
-* MQ & Crypto server integration tests|
+|**Participation**|<li>Was involved in testing of all subsystems of the complex: RABIS NP (core system), SPFS (swift xml conversion subsystem), SBP (rapid bank message exchange system), modification system.</li><li>Platforms: IBM Z, Z Linux, MS Server, SUSE Enterprise, Web.</li><li>Conducted testing at all stages, such as functional, module, integration, UIUX, backend, White and Grey box, and installation testing</li><li>Smoke, Regression testing and pushes to Production</li><li>Creating, updating and reviewing of the test and requirment documentation – test cases, check lists</li><li>Defects reporting to IBM Notes</li><li>Unix & Windows Server envoirment creation and managment</li><li>Close cooperation with developers’ team within the whole of the development and testing process, release preparation and participation</li><li>Security & Access level testing</li><li>MQ & Crypto server integration tests</li>|
 |**Team**|70+|
 |**Tools**|Web, IBM Websphere, IBM MQ, Oracle, MS SQL Server|
 
