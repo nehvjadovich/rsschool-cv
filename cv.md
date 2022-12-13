@@ -50,7 +50,7 @@ Has "Intern" skills if two of the three criteria above are missing.
 
 |||**Experience, years**|**Level**|
 | :| :| :-: | :-: |
-|Operating Systems:|||
+|Operating Systems:||||
 ||MS Windows|16|Expert|
 ||MacOS|11|Advanced|
 ||Linux|3|Advanced|
@@ -152,11 +152,14 @@ https://github.com/nehvjadovich/
 ||||
 ||<h2></h2>|
 ||<h2></h2>|
-# `              `**EDUCATION**
+
+## **EDUCATION**
 
 ||**Degree**|**Graduation year**|
 | :-: | :-: | :-: |
-|<p>**Minsk State Linguistic University**</p><p></p><p></p>|`    `English Teacher|<p></p><p>2014 2015 (in vacation)</p><p></p><p></p>|
+|**Minsk State Linguistic University**|English Teacher|2014 2015 (in vacation)|
+
+
 # `                 `**ADDITIONAL EDUCATION**
 `                                 `**1. My Monday,  “Software Testing”, 2019**
 
