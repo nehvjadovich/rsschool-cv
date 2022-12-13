@@ -1,9 +1,13 @@
 # Anton Nekhviadovich
+
 * Mobile: +995555144659
-* E mail: nehvjadovich@gmail.com 
+* E mail: nehvjadovich@gmail.com
 * Telegram: @AntonyMinsk
+
 ---
-# Summary:
+
+## "Summary:"
+
 * 3,5 years of experience in QA of mobile applications (iOS, Android), backend, web, and desktop applications, including requirements analysis, test cases preparation, data driven, automated, and functional testing types and defect tracking;
 * Looking for a job as a Senior/Lead QA Engineer or a Trainee Frontend Developer;
 * Living at Batumi, Georgia;
@@ -13,8 +17,11 @@
 * B2 English; Native Russian and Belarusian; Basic Polish;
 * Attended to Rolling Scopes School frontend school to learn JavaScript and Frontend Development;
 * Was learning Swift programming language.
+
 ---
-# Skills:
+
+## "Skills:"
+
 * Proficient in different type of testing such as data driven, functional, gray box, static & dynamic, usability, security, localization, exploratory, configuration, comparison, installation and  regression;
 * Understanding of QA and SLDC;
 * Agile (Scrum, Kanban) software development methodology;
@@ -26,20 +33,27 @@
 * QA/team/project management;
 * Good communication skills; collaboration and interpersonal skills;
 * Understanding of blockchain & cryptocurrency technologies.
----
-# Skill Table
-## Legend:
-A skill is considered "Expert" if all three conditions below are satisfied:
-Has expert level theoretical knowledge in that particular skill;
-Has completed at least two major project with key requirement for the skill;
-Has 2+ years’ experience of recent experience in that skill.
 
+---
+
+## Skill Table
+
+### "Legend:"
+
+A skill is considered "Expert" if all three conditions below are satisfied:
+
+* Has expert level theoretical knowledge in that particular skill;
+* Has completed at least two major project with key requirement for the skill;
+* Has 2+ years’ experience of recent experience in that skill.
 Has "Advanced" skills if one of the three criteria above is missing;
-Has "Intern" skills if two of the three criteria above are missing.                         
+Has "Intern" skills if two of the three criteria above are missing.
 
 |||**Experience, years**|**Level**|
+
 | :| :| :-: | :-: |
+
 |**Operating Systems:**|||
+
 ||MS Windows|16|Expert|
 ||MacOS|11|Advanced|
 ||Linux|3|Advanced|
