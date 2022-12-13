@@ -48,10 +48,8 @@ A skill is considered "Expert" if all three conditions below are satisfied:
 Has "Advanced" skills if one of the three criteria above is missing;
 Has "Intern" skills if two of the three criteria above are missing.
 
----
-
 |||**Experience (years)**|**Level**|
-| :- | :- | :- | :- |
+| :- | :- | :-: | :-: |
 |Operating Systems||||
 ||MS Windows|16|Expert|
 ||MacOS|11|Advanced|
@@ -63,10 +61,13 @@ Has "Intern" skills if two of the three criteria above are missing.
 ||Swift|0.2|Intern|
 ||JS|0.1|Intern|
 |RDBMS||||
-||SQL, Oracle (Toad, Data Pump), MySQL (MySQL Workbench), MSSQL (SQL Management Studio) |4|Advanced
+||SQL:
+Oracle (Toad, Data Pump)
+MySQL (MySQL Workbench)
+MSSQL (SQL Management Studio) |4|Advanced
 |Management Tool & Defect Tracking|||
 ||Atlassian JIRA|3|Advanced|
-||Atlassian Confluence||Intern|
+||Atlassian Confluence|2|Intern|
 ||TestRail|1|Intern|
 ||Redmine|1|Intern|
 ||IBM (Lotus) Notes|2|Intern|
