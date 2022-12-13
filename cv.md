@@ -103,13 +103,13 @@ https://github.com/nehvjadovich/
 
 # **Work Experience:**
 
-### 2022 - till now
-## *Effective soft*
+## 2022 - till now - *Effective soft*
 |**Job Position**|QA Engineer|
 | :- | :- |
 |**Roles**|Software Tester|
 |**Product**|**Internal project.** |
-|**Participation**|<p>- Conducted testing at all stages, such as Functional, Integration, GUI, </p><p>Smoke,and Regression testing.</p><p>- Creating, updating and reviewing of the test documentation – test-cases, check lists</p><p>- Issues verification </p><p>- Performed pre‐release and post‐release checking of applications</p><p>- Communicate with developers and BA</p><p>- Guiding, sharing experience with other project members</p><p>- Close cooperation with developers’ team within the whole of the development and testing process, release preparation and participation</p><p></p>|
+|**Participation**| * Conducted testing at all stages, such as Functional, Integration, GUI, Smoke,and Regression testing. 
+*Creating, updating and reviewing of the test documentation – test-cases, check lists</p><p>- Issues verification </p><p>- Performed pre‐release and post‐release checking of applications</p><p>- Communicate with developers and BA</p><p>- Guiding, sharing experience with other project members</p><p>- Close cooperation with developers’ team within the whole of the development and testing process, release preparation and participation</p><p></p>|
 |**Team**|5 - 10|
 |<p></p><p>**Tools**</p>|Web, Jira.|
 ||<h2>2021</h2>|
