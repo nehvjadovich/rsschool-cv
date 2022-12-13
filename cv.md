@@ -51,7 +51,7 @@ Has "Intern" skills if two of the three criteria above are missing.
 ---
 
 |||**Experience (years)**|**Level**|
-| :| :| :-: | :-: |
+| :-: | :-: | :-: | :-: |
 |Operating Systems||||
 ||MS Windows|16|Expert|
 ||MacOS|11|Advanced|
@@ -120,7 +120,7 @@ Has "Intern" skills if two of the three criteria above are missing.
 ### 2022  *Effective soft*
 
 |**Job Position**|QA Engineer|
-| :| :|
+| :-: | :-: |
 |Roles|Software Tester|
 |Product|Internal project|
 |Participation|
@@ -137,7 +137,7 @@ Close cooperation with developers team within the whole of the development and t
 ### 2021 *Code Inspiration*
 
 |**Job Position**|QA Engineer|
-| :| :|
+| :-: | :-: |
 |**Roles**|QA Lead, Software Tester|
 |**Product**|**Time for you CRM.** Cleaner to Client Franchise Management, Planning & connection system.|
 |**Participation**|
@@ -159,7 +159,7 @@ Participation in daily scrum meetings|
 ## 2019 - 2020 *Mebius*
 
 |**Job Position**|QA Engineer|
-| : | : |
+| :-: | :-: |
 |**Roles**|Software Tester|
 |**Product**|**Bank of Russia main banking system complex.** Designed to handle russian and other countries' bank accounts, exchange messages with them, report and control them.
 |**Participation**|
