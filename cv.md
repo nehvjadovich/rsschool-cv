@@ -48,38 +48,37 @@ A skill is considered "Expert" if all three conditions below are satisfied:
 Has "Advanced" skills if one of the three criteria above is missing;
 Has "Intern" skills if two of the three criteria above are missing.
 
-|||**Experience (years)**|**Level**|
+||**Skill**|**Experience (years)**|**Level**|
 | :- | :- | :-: | :-: |
-|Operating Systems||||
+|**Operating Systems**||||
 ||MS Windows|16|Expert|
 ||MacOS|11|Advanced|
 ||Linux|3|Advanced|
 ||iOS|7|Advanced|
 ||ipadOS|4|Advanced|
 ||Android|2|Advanced|
-|Programming Languages|||
+|**Programming Languages**|||
 ||Swift|0.2|Intern|
 ||JS|0.1|Intern|
-|RDBMS||||
-||SQL:
-Oracle (Toad, Data Pump)
-MySQL (MySQL Workbench)
-MSSQL (SQL Management Studio) |4|Advanced
-|Management Tool & Defect Tracking|||
+|**RDBMS**||||
+||Oracle (Toad, Data Pump)|2|Advanced
+||MSSQL (SQL Management Studio)|2|Advanced
+||MySQL (MySQL Workbench)|1|Advanced
+|**Management Tool & Defect Tracking**|||
 ||Atlassian JIRA|3|Advanced|
 ||Atlassian Confluence|2|Intern|
 ||TestRail|1|Intern|
 ||Redmine|1|Intern|
 ||IBM (Lotus) Notes|2|Intern|
 ||Azure DevOps|0.5|Intern|
-|Technologies|||
+|**Technologies**|||
 ||SQL|4|Expert|
 ||XML|2|Advanced|
 ||JSON|1|Advanced|
 ||HTTP/REST|1|Advanced|
 ||HTML|0.5|Advanced|
 ||TCP/IP|2|Expert|
-|Tools|||
+|**Tools**|||
 ||xCode|0.2|Intern|
 ||Android Studio/Android SDK|0.5|Intern|
 ||VSCode|0.1|Intern|
@@ -96,7 +95,7 @@ MSSQL (SQL Management Studio) |4|Advanced
 ||IBM Websphere|2|Advanced|
 ||Araxis Merge|2|Advanced|
 ||Notepad ++|3|Advanced|
-|Testing skills|||
+|**Testing skills**|||
 ||Web application / Cross-browser testing|4|Advanced|
 ||Android|1|Advanced|
 ||iOS|1|Advanced|
