@@ -103,7 +103,7 @@ https://github.com/nehvjadovich/
 
 # **Work Experience:**
 
-|<p><h2>2022 - till now</h2></p><p><h2>*Effective soft*</h2></p>|
+<p><h2>2022 - till now</h2></p><p><h2>*Effective soft*</h2></p>
 | :- | :- |
 ||<h2></h2>|
 |**Job Position**|QA Engineer|
