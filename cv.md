@@ -119,17 +119,18 @@ Has "Intern" skills if two of the three criteria above are missing.
 
 ## Work Experience
 
-### 2022  *Effective soft*
+### 2022 - *Effective soft*
 
 |**Job Position**|QA Engineer|
 | :- | :- |
-|**Roles**|Software Tester|
-|**Product**|**Internal project**|
-|Participation|<li>Conducted testing at all stages, such as Functional, Integration, GUI, Smoke,and Regression testing</li><li>Creating, updating and reviewing of the test documentation – test-cases, check lists</li><li>Issues verification</li><li>Performed pre‐release and post‐release checking of applications</li><li>Communicate with developers and BA</li><li>Guiding, sharing experience with other project members</li><li>Close cooperation with developers team within the whole of the development and testing process, release preparation and participation</li>|
-|Team|5 10|
-|Tools|Web, Jira.|
+|**Roles**|Data QA/Analytic|
+|**Product**|**Innovacare** Big data, ML healthcare project|
+|Participation|<li>Requirements testing and analysis</li><li>Test cases</li><li>Bug reports</li><li>
+Bug & Data verification & validation</li>
+|**Team**|10|
+|**Tools**|Microsoft Azure Cloud; Power BI; MSSQL; MSExcel|
 
-### 2021 *Code Inspiration*
+### 2021 - *Code Inspiration*
 
 |**Job Position**|QA Engineer|
 | :- | :- |
@@ -142,7 +143,7 @@ Has "Intern" skills if two of the three criteria above are missing.
 ### 2019 - 2020 *Mebius*
 
 |**Job Position**|QA Engineer|
-| :- | :-: |
+| :- | :- |
 |**Roles**|Software Tester|
 |**Product**|**Bank of Russia main banking system complex.** Designed to handle russian and other countries' bank accounts, exchange messages with them, report and control them.
 |**Participation**|<li>Was involved in testing of all subsystems of the complex: RABIS NP (core system), SPFS (swift xml conversion subsystem), SBP (rapid bank message exchange system), modification system.</li><li>Platforms: IBM Z, Z Linux, MS Server, SUSE Enterprise, Web.</li><li>Conducted testing at all stages, such as functional, module, integration, UIUX, backend, White and Grey box, and installation testing</li><li>Smoke, Regression testing and pushes to Production</li><li>Creating, updating and reviewing of the test and requirment documentation – test cases, check lists</li><li>Defects reporting to IBM Notes</li><li>Unix & Windows Server envoirment creation and managment</li><li>Close cooperation with developers’ team within the whole of the development and testing process, release preparation and participation</li><li>Security & Access level testing</li><li>MQ & Crypto server integration tests</li>|
@@ -153,16 +154,17 @@ Has "Intern" skills if two of the three criteria above are missing.
 
 ||**Degree**|**Graduation year**|
 | :-: | :-: | :-: |
-|**Minsk State Linguistic University**|English Teacher|2014 2015 (in vacation)|
+|**Minsk State Linguistic University**|English Teacher|2014 - 2015 (in vacation)|
 
 ## **ADDITIONAL EDUCATION**
 
-**My Monday,  “Software Testing”, 2019**
-**High Tech Park Education Center, “Functional testing”, 2016 - 2017**
+|My Monday|“Software Testing”|2019|
+|High Tech Park Education Center|“Functional testing”|2016 - 2017|
 
 ## **LANGUAGES**
 
 |**Russian**|**Native**|
 | :-: | :-: |
+|**Belarussian**|**Native**|
 |**English**|Upper-Intermediate|
 |**Polish**|Elementary|
