@@ -48,14 +48,12 @@ A skill is considered "Expert" if all three conditions below are satisfied:
 Has "Advanced" skills if one of the three criteria above is missing;
 Has "Intern" skills if two of the three criteria above are missing.
 
+---
 |||**Experience, years**|**Level**|
-
-
 | :| :| :-: | :-: |
 |Operating Systems:||||
 ||MS Windows|16|Expert|
 ||MacOS|11|Advanced|
-
 ||Linux|3|Advanced|
 ||iOS|7|Advanced|
 ||ipadOS|4|Advanced|
