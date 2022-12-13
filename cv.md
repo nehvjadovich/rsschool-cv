@@ -122,17 +122,18 @@ Has "Intern" skills if two of the three criteria above are missing.
 ### 2022  *Effective soft*
 
 |**Job Position**|QA Engineer|
-| :-: | :-: |
-|Roles|Software Tester|
-|Product|Internal project|
+| -: | :-: |
+|**Roles**|Software Tester|
+|**Product**|**Internal project**|
 |Participation|
-Conducted testing at all stages, such as Functional, Integration, GUI, Smoke,and Regression testing.
-Creating, updating and reviewing of the test documentation – test-cases, check lists
-Issues verification
-Performed pre‐release and post‐release checking of applications
-Communicate with developers and BA
-Guiding, sharing experience with other project members
-Close cooperation with developers team within the whole of the development and testing process, release preparation and participation|
+
+* Conducted testing at all stages, such as Functional, Integration, GUI, Smoke,and Regression testing.
+* Creating, updating and reviewing of the test documentation – test-cases, check lists
+* Issues verification
+* Performed pre‐release and post‐release checking of applications
+* Communicate with developers and BA
+* Guiding, sharing experience with other project members
+* Close cooperation with developers team within the whole of the development and testing process, release preparation and participation|
 |Team|5 10|
 |Tools|Web, Jira.|
 
@@ -143,19 +144,20 @@ Close cooperation with developers team within the whole of the development and t
 |**Roles**|QA Lead, Software Tester|
 |**Product**|**Time for you CRM.** Cleaner to Client Franchise Management, Planning & connection system.|
 |**Participation**|
-Test team Leader
-Requirements testing and analysis
-Platforms: IpadOS, Web
-Smoke, regression, integration, system, functional, module, UIUX testing
-Defects and improvement reporting to JIRA
-Cross browser and cross platform testing
-Communicated with developers and customers
-Project documentation keeping
-Sprint planning
-Manage and coordinate dev/QA team
+
+* Test team Leader
+* Requirements testing and analysis
+* Platforms: IpadOS, Web
+* Smoke, regression, integration, system, functional, module, UIUX testing
+* Defects and improvement reporting to JIRA
+* Cross browser and cross platform testing
+* Communicated with developers and customers
+* Project documentation keeping
+* Sprint planning
+* Manage and coordinate dev/QA team
 
 Participation in daily scrum meetings|
-|**Team**|4 6|
+|**Team**|4 - 6|
 |**Tools**|Web, Selenium, Swagger, Postman, MySQL, Fiddler, Wireshark, Mailjet, Jira.|
 
 ## 2019 - 2020 *Mebius*
@@ -165,16 +167,17 @@ Participation in daily scrum meetings|
 |**Roles**|Software Tester|
 |**Product**|**Bank of Russia main banking system complex.** Designed to handle russian and other countries' bank accounts, exchange messages with them, report and control them.
 |**Participation**|
-Was involved in testing of all subsystems of the complex: RABIS NP (core system), SPFS (swift xml conversion subsystem), SBP (rapid bank message exchange system), modification system.
-Platforms: IBM Z, Z Linux, MS Server, SUSE Enterprise, Web.
-Conducted testing at all stages, such as functional, module, integration, UIUX, backend, White and Grey box, and installation testing
-Smoke, Regression testing and pushes to Production
-Creating, updating and reviewing of the test and requirment documentation – test cases, check lists
-Defects reporting to IBM Notes
-Unix & Windows Server envoirment creation and managment
-Close cooperation with developers’ team within the whole of the development and testing process, release preparation and participation
-Security & Access level testing
-MQ & Crypto server integration tests|
+
+* Was involved in testing of all subsystems of the complex: RABIS NP (core system), SPFS (swift xml conversion subsystem), SBP (rapid bank message exchange system), modification system.
+* Platforms: IBM Z, Z Linux, MS Server, SUSE Enterprise, Web.
+* Conducted testing at all stages, such as functional, module, integration, UIUX, backend, White and Grey box, and installation testing
+* Smoke, Regression testing and pushes to Production
+* Creating, updating and reviewing of the test and requirment documentation – test cases, check lists
+* Defects reporting to IBM Notes
+* Unix & Windows Server envoirment creation and managment
+* Close cooperation with developers’ team within the whole of the development and testing process, release preparation and participation
+* Security & Access level testing
+* MQ & Crypto server integration tests|
 |**Team**|70+|
 |**Tools**|Web, IBM Websphere, IBM MQ, Oracle, MS SQL Server|
 
