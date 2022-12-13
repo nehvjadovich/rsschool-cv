@@ -152,13 +152,14 @@ Project documentation keeping
 Sprint planning
 Manage and coordinate dev/QA team
 
-Participation in daily scrum meetings<|
+Participation in daily scrum meetings|
 |**Team**|4 6|
 |**Tools**|Web, Selenium, Swagger, Postman, MySQL, Fiddler, Wireshark, Mailjet, Jira.|
 
 ## 2019 - 2020 *Mebius*
 
 ||**Job Position**|QA Engineer|
+| :-: | :-: | :-: |
 ||**Roles**|Software Tester|
 ||**Product**|**Bank of Russia main banking system complex.** Designed to handle russian and other countries' bank accounts, exchange messages with them, report and control them.
 ||**Participation**|
