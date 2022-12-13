@@ -1,6 +1,6 @@
 # Anton Nekhviadovich
 * Mobile: +995555144659
-* E - mail: nehvjadovich@gmail.com 
+* E mail: nehvjadovich@gmail.com 
 * Telegram: @AntonyMinsk
 ---
 # Summary:
@@ -8,14 +8,14 @@
 * Looking for a job as a Senior/Lead QA Engineer or a Trainee Frontend Developer;
 * Living at Batumi, Georgia;
 * Born at Minsk, Belarus;
-* Was involved at big data, CRM, and banking - systems
+* Was involved at big data, CRM, and banking systems
 * Have experience at leading, business analysis & test leading;
 * B2 English; Native Russian and Belarusian; Basic Polish;
 * Attended to Rolling Scopes School frontend school to learn JavaScript and Frontend Development;
 * Was learning Swift programming language.
 ---
 # Skills:
-* Proficient in different type of testing such as data - driven, functional, gray box, static & dynamic, usability, security, localization, exploratory, configuration, comparison, installation and  regression;
+* Proficient in different type of testing such as data driven, functional, gray box, static & dynamic, usability, security, localization, exploratory, configuration, comparison, installation and  regression;
 * Understanding of QA and SLDC;
 * Agile (Scrum, Kanban) software development methodology;
 * Initiation, planning, executing and controlling of a project;
@@ -26,19 +26,19 @@
 * QA/team/project management;
 * Good communication skills; collaboration and interpersonal skills;
 * Understanding of blockchain & cryptocurrency technologies.
-
+---
 # Skill Table
 ## Legend:
 A skill is considered "Expert" if all three conditions below are satisfied:
-- Has expert level theoretical knowledge in that particular skill;
-- Has completed at least two major project with key requirement for the skill;
-- Has 2+ years’ experience of recent experience in that skill.
+Has expert level theoretical knowledge in that particular skill;
+Has completed at least two major project with key requirement for the skill;
+Has 2+ years’ experience of recent experience in that skill.
 
 Has "Advanced" skills if one of the three criteria above is missing;
 Has "Intern" skills if two of the three criteria above are missing.                         
 
 |||**Experience, years**|**Level**|
-| :- | :- | :-: | :-: |
+| :| :| :-: | :-: |
 |**Operating Systems:**|||
 ||MS Windows|16|Expert|
 ||MacOS|11|Advanced|
@@ -92,39 +92,41 @@ Has "Intern" skills if two of the three criteria above are missing.
 ||Regression testing|4|Advanced|
 ||Exploratory testing|4|Advanced|
 ||Functional testing|4|Expert|
-||Data - driven testing (Big Data)|0.5|Advanced|
+||Data driven testing (Big Data)|0.5|Advanced|
 ||Usability testing|4|Advanced|
 ||Localization testing|1|Intern|
 ||Accessibility testing|0.2|Intern|
 ||DB Testing|3|Advanced|
-
+---
 # Github (almost empty for now): 
 https://github.com/nehvjadovich/
-
+---
 # **Work Experience:**
 
-## 2022 - till now - *Effective soft*
+## 2022  *Effective soft*
 |**Job Position**|QA Engineer|
-| :- | :- |
+| :| :|
 |**Roles**|Software Tester|
 |**Product**|**Internal project.** |
-|**Participation**|<li> - Conducted testing at all stages, such as Functional, Integration, GUI, Smoke,and Regression testing.</li><li>- Creating, updating and reviewing of the test documentation – test-cases, check lists</li><li>- Issues verification </li><li>- Performed pre‐release and post‐release checking of applications</li><li>- Communicate with developers and BA</li><li>- Guiding, sharing experience with other project members</li><li>- Close cooperation with developers team within the whole of the development and testing process, release preparation and participation</li></ul>|
-|**Team**|5 - 10|
+|**Participation**|<ul><li>Conducted testing at all stages, such as Functional, Integration, GUI, Smoke,and Regression testing.</li><li>Creating, updating and reviewing of the test documentation – test-cases, check lists</li><li>Issues verification </li><li>Performed pre‐release and post‐release checking of applications</li><li>Communicate with developers and BA</li><li>Guiding, sharing experience with other project members</li><li>Close cooperation with developers team within the whole of the development and testing process, release preparation and participation</li></ul>|
+|**Team**|5 10|
 |**Tools**|Web, Jira.|
-
-## 2021 - *Code Inspiration* 
+---
+## 2021 *Code Inspiration* 
 |**Job Position**|QA Engineer|
-||**Roles**|QA Lead, Software Tester|
-||**Product**|**Time for you CRM.** Cleaner – Client – Franchise Management, Planning & connection system|
-||**Participation**|<p>- Test team Leader</p><p>- Requirements testing and analysis</p><p>- Platforms: IpadOS, Web</p><p>- Smoke, regression, integration, system, functional, module, UIUX testing</p><p>- Defects and improvement reporting to JIRA</p><p>- Cross - browser and cross - platform testing</p><p>- Communicated with developers and customers</p><p>- Project documentation keeping</p><p>- Sprint planning</p><p>- Manage and coordinate dev/QA team</p><p></p><p>- Participation in daily scrum meetings</p>|
-||**Team**|4 - 6|
-||<p></p><p>**Tools**</p>|Web, Selenium, Swagger, Postman, MySQL, Fiddler, Wireshark, Mailjet, Jira.|
-||<p><h2></h2></p><p><h2>2019 - 2020</h2></p>|
+| :| :|
+|**Roles**|QA Lead, Software Tester|
+|**Product**|**Time for you CRM.** Cleaner to Client Franchise Management, Planning & connection system.|
+|**Participation**|<ul><li>Test team Leader</li><li>Requirements testing and analysis</li><li>Platforms: IpadOS, Web</li><li>Smoke, regression, integration, system, functional, module, UIUX testing</li><li>Defects and improvement reporting to JIRA</li><li>Cross browser and cross platform testing</li><li>Communicated with developers and customers</li><li>Project documentation keeping</li><li>Sprint planning</li><li>Manage and coordinate dev/QA team</li><li></li><li>Participation in daily scrum meetings</li></ul>|
+|**Team**|4 6|
+|**Tools**|Web, Selenium, Swagger, Postman, MySQL, Fiddler, Wireshark, Mailjet, Jira.|
+
+||<p><h2></h2></p><p><h2>2019 2020</h2></p>|
 ||<h2>*Mebius*</h2>|
 ||**Job Position**|QA Engineer|
 ||**Roles**|Software Tester|
 ||**Product**|<p>**Bank of Russia main banking system complex.** Designed to handle russian and other countries' bank accounts, exchange messages with them, report and control them.</p><p></p>|
-||**Participation**|<p>- Was involved in testing of all subsystems of the complex: RABIS - NP (core system), SPFS (swift - xml conversion subsystem), SBP (rapid bank message exchange system), modification system.</p><p>- Platforms: IBM Z, Z Linux, MS Server, SUSE Enterprise, Web.</p><p>- Conducted testing at all stages, such as functional, module, integration, UIUX, backend, White and Grey box, and installation testing</p><p>- Smoke, Regression testing and pushes to Production</p><p>- Creating, updating and reviewing of the test and requirment documentation – test - cases, check lists</p><p>- Defects reporting to IBM Notes</p><p>- Unix & Windows Server envoirment creation and managment </p><p>- Close cooperation with developers’ team within the whole of the development and testing process, release preparation and participation</p><p>- Security & Access level testing</p><p>- MQ & Crypto server integration tests</p>|
+||**Participation**|<p>Was involved in testing of all subsystems of the complex: RABIS NP (core system), SPFS (swift xml conversion subsystem), SBP (rapid bank message exchange system), modification system.</p><p>Platforms: IBM Z, Z Linux, MS Server, SUSE Enterprise, Web.</p><p>Conducted testing at all stages, such as functional, module, integration, UIUX, backend, White and Grey box, and installation testing</p><p>Smoke, Regression testing and pushes to Production</p><p>Creating, updating and reviewing of the test and requirment documentation – test cases, check lists</p><p>Defects reporting to IBM Notes</p><p>Unix & Windows Server envoirment creation and managment </p><p>Close cooperation with developers’ team within the whole of the development and testing process, release preparation and participation</p><p>Security & Access level testing</p><p>MQ & Crypto server integration tests</p>|
 ||<p></p><p>**Team**</p>|<p></p><p>70+</p>|
 ||<p></p><p>**Tools**</p>|Web,  IBM Websphere, IBM MQ, Oracle, MS SQL Server|
 ||<h2></h2>|
@@ -140,7 +142,7 @@ https://github.com/nehvjadovich/
 
 ||**Degree**|**Graduation year**|
 | :-: | :-: | :-: |
-|<p>**Minsk State Linguistic University**</p><p></p><p></p>|`    `English Teacher|<p></p><p>2014 - 2015 (in vacation)</p><p></p><p></p>|
+|<p>**Minsk State Linguistic University**</p><p></p><p></p>|`    `English Teacher|<p></p><p>2014 2015 (in vacation)</p><p></p><p></p>|
 # `                 `**ADDITIONAL EDUCATION**
 `                                 `**1. My Monday,  “Software Testing”, 2019**
 
@@ -149,7 +151,7 @@ https://github.com/nehvjadovich/
 # `                 `**LANGUAGES**
 
 |**Russian**|Native|
-| - | :- |
+| | :|
 |<p>**English**</p><p><br>**Polish**</p>|Written: Upper-Intermediate|
 ||Spoken: Upper-Intermediate<br>Elementary|
 
