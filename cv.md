@@ -108,14 +108,12 @@ https://github.com/nehvjadovich/
 | :- | :- |
 |**Roles**|Software Tester|
 |**Product**|**Internal project.** |
-|**Participation**| * Conducted testing at all stages, such as Functional, Integration, GUI, Smoke,and Regression testing. 
-*Creating, updating and reviewing of the test documentation – test-cases, check lists</p><p>- Issues verification </p><p>- Performed pre‐release and post‐release checking of applications</p><p>- Communicate with developers and BA</p><p>- Guiding, sharing experience with other project members</p><p>- Close cooperation with developers’ team within the whole of the development and testing process, release preparation and participation</p><p></p>|
+|**Participation**|<p>- Conducted testing at all stages, such as Functional, Integration, GUI, Smoke,and Regression testing.</p><p>- Creating, updating and reviewing of the test documentation – test-cases, check lists</p><p>- Issues verification </p><p>- Performed pre‐release and post‐release checking of applications</p><p>- Communicate with developers and BA</p><p>- Guiding, sharing experience with other project members</p><p>- Close cooperation with developers team within the whole of the development and testing process, release preparation and participation</p>|
 |**Team**|5 - 10|
-|<p></p><p>**Tools**</p>|Web, Jira.|
-||<h2>2021</h2>|
+|**Tools**|Web, Jira.|
 
-||<h2>*Code Inspiration*</h2><br></h2>|
-||**Job Position**|QA Engineer|
+## 2021 - *Code Inspiration* 
+|**Job Position**|QA Engineer|
 ||**Roles**|QA Lead, Software Tester|
 ||**Product**|**Time for you CRM.** Cleaner – Client – Franchise Management, Planning & connection system|
 ||**Participation**|<p>- Test team Leader</p><p>- Requirements testing and analysis</p><p>- Platforms: IpadOS, Web</p><p>- Smoke, regression, integration, system, functional, module, UIUX testing</p><p>- Defects and improvement reporting to JIRA</p><p>- Cross - browser and cross - platform testing</p><p>- Communicated with developers and customers</p><p>- Project documentation keeping</p><p>- Sprint planning</p><p>- Manage and coordinate dev/QA team</p><p></p><p>- Participation in daily scrum meetings</p>|
