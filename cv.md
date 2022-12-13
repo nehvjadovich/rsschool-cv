@@ -51,7 +51,7 @@ Has "Intern" skills if two of the three criteria above are missing.
 ---
 
 |||**Experience (years)**|**Level**|
-| -: | -: | -: | -: |
+| :- | :- | :- | :- |
 |Operating Systems||||
 ||MS Windows|16|Expert|
 ||MacOS|11|Advanced|
