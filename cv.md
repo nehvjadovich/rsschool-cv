@@ -53,6 +53,7 @@ Has "Intern" skills if two of the three criteria above are missing.
 |Operating Systems:||||
 ||MS Windows|16|Expert|
 ||MacOS|11|Advanced|
+
 ||Linux|3|Advanced|
 ||iOS|7|Advanced|
 ||ipadOS|4|Advanced|
@@ -60,7 +61,7 @@ Has "Intern" skills if two of the three criteria above are missing.
 |Programming Languages:|||
 ||Swift|0.2|Intern|
 ||JS|0.1|Intern|
-|RDBMS:|||
+|RDBMS:||||
 ||SQL, Oracle (Toad, Data Pump), MySQL (MySQL Workbench), MSSQL (SQL Management Studio) |4|Advanced
 |Management Tool & Defect Tracking:|||
 ||Atlassian JIRA|3|Advanced|
