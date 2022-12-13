@@ -101,18 +101,19 @@ Has "Intern" skills if two of the three criteria above are missing.
 # Github (almost empty for now): 
 https://github.com/nehvjadovich/
 
-# **WORK EXPERIENCE:**
+# **Work Experience:**
 
-||<p><h2>2022 - till now</h2></p><p><h2>*Effective soft*</h2></p>|
+|<p><h2>2022 - till now</h2></p><p><h2>*Effective soft*</h2></p>|
 | :- | :- |
 ||<h2></h2>|
-||**Job Position**|QA Engineer|
-||**Roles**|Software Tester|
-||**Product**|**Internal project.** |
-||**Participation**|<p>- Conducted testing at all stages, such as Functional, Integration, GUI, </p><p>Smoke,and Regression testing.</p><p>- Creating, updating and reviewing of the test documentation – test-cases, check lists</p><p>- Issues verification </p><p>- Performed pre‐release and post‐release checking of applications</p><p>- Communicate with developers and BA</p><p>- Guiding, sharing experience with other project members</p><p>- Close cooperation with developers’ team within the whole of the development and testing process, release preparation and participation</p><p></p>|
-||**Team**|5 - 10|
-||<p></p><p>**Tools**</p>|Web, Jira.|
+|**Job Position**|QA Engineer|
+|**Roles**|Software Tester|
+|**Product**|**Internal project.** |
+|**Participation**|<p>- Conducted testing at all stages, such as Functional, Integration, GUI, </p><p>Smoke,and Regression testing.</p><p>- Creating, updating and reviewing of the test documentation – test-cases, check lists</p><p>- Issues verification </p><p>- Performed pre‐release and post‐release checking of applications</p><p>- Communicate with developers and BA</p><p>- Guiding, sharing experience with other project members</p><p>- Close cooperation with developers’ team within the whole of the development and testing process, release preparation and participation</p><p></p>|
+|**Team**|5 - 10|
+|<p></p><p>**Tools**</p>|Web, Jira.|
 ||<h2>2021</h2>|
+
 ||<h2>*Code Inspiration*</h2><br></h2>|
 ||**Job Position**|QA Engineer|
 ||**Roles**|QA Lead, Software Tester|
