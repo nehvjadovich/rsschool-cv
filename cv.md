@@ -108,7 +108,7 @@ https://github.com/nehvjadovich/
 | :- | :- |
 |**Roles**|Software Tester|
 |**Product**|**Internal project.** |
-|**Participation**|<p>- Conducted testing at all stages, such as Functional, Integration, GUI, Smoke,and Regression testing.</p><p>- Creating, updating and reviewing of the test documentation – test-cases, check lists</p><p>- Issues verification </p><p>- Performed pre‐release and post‐release checking of applications</p><p>- Communicate with developers and BA</p><p>- Guiding, sharing experience with other project members</p><p>- Close cooperation with developers team within the whole of the development and testing process, release preparation and participation</p>|
+|**Participation**|<li> - Conducted testing at all stages, such as Functional, Integration, GUI, Smoke,and Regression testing.</li><li>- Creating, updating and reviewing of the test documentation – test-cases, check lists</li><li>- Issues verification </li><li>- Performed pre‐release and post‐release checking of applications</li><li>- Communicate with developers and BA</li><li>- Guiding, sharing experience with other project members</li><li>- Close cooperation with developers team within the whole of the development and testing process, release preparation and participation</li></ul>|
 |**Team**|5 - 10|
 |**Tools**|Web, Jira.|
 
