@@ -158,6 +158,7 @@ Has "Intern" skills if two of the three criteria above are missing.
 ## **ADDITIONAL EDUCATION**
 
 |My Monday|“Software Testing”|2019|
+| :-: | :-: | :-: |
 |High Tech Park Education Center|“Functional testing”|2016 - 2017|
 
 ## **LANGUAGES**
