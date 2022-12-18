@@ -123,7 +123,7 @@ Has "Intern" skills if two of the three criteria above are missing.
 
 |**Job Position**|QA Engineer|
 | :- | :- |
-|**Roles**|Data QA/Analytic|
+|**Roles**|Data QA/Analyst|
 |**Product**|**Innovacare.** Big data & ML healthcare-related project|
 |Participation|<li>Requirements testing and analysis</li><li>Test cases</li><li>Bug reports</li><li>Bug & Data verification & validation</li>
 |**Team**|10|
